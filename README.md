@@ -5,13 +5,13 @@
 
 ## 다운로드
 
-👉 **[최신 버전 받기](../../releases/latest)** → `all calendar 설치 x.x.x.exe` 를 눌러 받으세요.
+👉 **[최신 버전 받기](https://github.com/predeity/all-calendar/releases/latest)** → `all-calendar-setup-x.x.x.exe` 를 눌러 받으세요.
 
 - Windows 10 / 11 (64비트)
 - 내 일정은 내 PC에만 저장돼요. 다른 사람과 공유되지 않아요.
 
 ## 설치
-1. 받은 `all calendar 설치 x.x.x.exe` 를 더블클릭해요.
+1. 받은 `all-calendar-setup-x.x.x.exe` 를 더블클릭해요.
 2. **"Windows의 PC 보호"** 창이 뜨면 **추가 정보 → 실행**을 눌러요.
    (회사 전자서명이 없는 프로그램이라 처음에 한 번 뜨는 안내예요.)
 3. 설치 폴더를 고르고 **설치**를 누르면 바탕화면과 시작 메뉴에 `all calendar`가 생겨요.
@@ -36,7 +36,7 @@
 - **회사 구글 계정(Google Workspace)** 은 회사 관리자가 외부 앱 연결을 막아 두었으면 연결되지 않을 수 있어요. 개인 Gmail은 문제없어요.
 
 ## 업데이트 · 지우기
-- 새 버전이 올라오면 [최신 버전](../../releases/latest)을 받아 다시 설치하면 돼요. 내 일정은 그대로 남아요.
+- 새 버전이 올라오면 [최신 버전](https://github.com/predeity/all-calendar/releases/latest)을 받아 다시 설치하면 돼요. 내 일정은 그대로 남아요.
 - 지우려면 Windows 설정 → 앱 → `all calendar` → 제거. 일정 데이터(`%APPDATA%\all calendar`)는 남겨 둬요.
 
 ## 개인정보
